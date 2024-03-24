@@ -1,0 +1,42 @@
+[
+    {
+        "id": 1,
+        "product": 1,
+        "quantity": 1,
+        "orginal_price": "600.00",
+        "discounted_price": null,
+        "payment_method": "COD",
+        "address": {
+            "id": 5,
+            "createdAt": "2024-03-11T19:20:05.870235Z",
+            "modifiedAt": "2024-03-11T19:20:05.870235Z",
+            "address_line1": "123 Main Street",
+            "address_line2": "Apt 101",
+            "city": "Springfield",
+            "state": "California",
+            "postal_code": "12345",
+            "phone_number": "+918770300675",
+            "user": 2
+        }
+    },
+    {
+        "id": 2,
+        "product": 2,
+        "quantity": 1,
+        "orginal_price": "200.00",
+        "discounted_price": null,
+        "payment_method": "COD",
+        "address": {
+            "id": 5,
+            "createdAt": "2024-03-11T19:20:05.870235Z",
+            "modifiedAt": "2024-03-11T19:20:05.870235Z",
+            "address_line1": "123 Main Street",
+            "address_line2": "Apt 101",
+            "city": "Springfield",
+            "state": "California",
+            "postal_code": "12345",
+            "phone_number": "+918770300675",
+            "user": 2
+        }
+    }
+]
